@@ -139,7 +139,7 @@ On [ivangfr.github.io](https://ivangfr.github.io), I have compiled my Proof-of-C
 
   `Grafana` can be accessed at http://localhost:3000
 
-  - In order to login, type `admin` for both `username` and `password`.
+  - In order to login, type `admin` for both _username_ and _password_.
   - You can skip the next screen that asks you to provide a new password.
   - Select `Dashboards` on the left-menu.
   - Click `movies-api-dashboard`.
@@ -150,7 +150,7 @@ On [ivangfr.github.io](https://ivangfr.github.io), I have compiled my Proof-of-C
 
   `Kibana` can be accessed at http://localhost:5601
 
-  > **Note**: in order to see movies-api logs in Kibana, you must run the application as Docker container
+  > **Note**: in order to see `movies-api` logs in `Kibana`, you must run the application as Docker container
 
   _Configuration_
 
